@@ -45,6 +45,7 @@ En este articulo (Casos):
 - Microsoft Azure
 . GitHub
 
+
 ![image](https://user-images.githubusercontent.com/55814963/125205764-7ba78c00-e249-11eb-87d6-eefb562f0a15.png)
 ![image](https://user-images.githubusercontent.com/55814963/125205769-83ffc700-e249-11eb-8ea5-f03dd84fc61b.png)
 ![image](https://user-images.githubusercontent.com/55814963/125205777-8d892f00-e249-11eb-94da-22bbfb7959eb.png)
@@ -53,11 +54,14 @@ En este articulo (Casos):
 #  4. DESARROLLO
 
 - En este examen  se realizó y aplico el desarrolo de una base de datos con la creacion de vistas y procedimientos atraves de los herramientas utilizadas.
+
 ![image](https://user-images.githubusercontent.com/55814963/125205872-0092a580-e24a-11eb-9e7e-e09c37760e37.png)
 
 - Nuestra cuenta de usuario 
+- 
 ![image](https://user-images.githubusercontent.com/55814963/125205881-0e482b00-e24a-11eb-95d7-30e376077e9c.png)
 
 
 #  5. MUCHAS GRACIAS...!
+
 ![image](https://user-images.githubusercontent.com/55814963/125205940-25871880-e24a-11eb-8ac3-38ecd332a8e3.png)
