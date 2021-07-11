@@ -32,12 +32,12 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 
 En este articulo (Casos):
 
-Administrador: Tiene acceso completo a todo el sistema y es el encargado de registrar a los Jefes de Sucursal. Tiene acceso a un dashboard en la que puede hacer el seguimiento equipos vendidos y montos de venta por sucursal y ranking de los mejores vendedores.
+- Administrador: Tiene acceso completo a todo el sistema y es el encargado de registrar a los Jefes de Sucursal. Tiene acceso a un dashboard en la que puede hacer el seguimiento equipos vendidos y montos de venta por sucursal y ranking de los mejores vendedores.
 
 
-Jefe de Sucursal: Registra los equipos, vendedores y tiene acceso a los reportes de inventario y ventas de acuerdo a rango de fechas específicas.
+- Jefe de Sucursal: Registra los equipos, vendedores y tiene acceso a los reportes de inventario y ventas de acuerdo a rango de fechas específicas.
 
-Vendedor: Registra cada una de las ventas realizadas, emite un comprobante de venta. Genera reporte de las ventas realizadas por día, semana y mes.
+- Vendedor: Registra cada una de las ventas realizadas, emite un comprobante de venta. Genera reporte de las ventas realizadas por día, semana y mes.
 
 #  3. HERRAMIENTAS DE TRABAJO
 
