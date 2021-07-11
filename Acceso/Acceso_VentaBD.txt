@@ -1,0 +1,20 @@
+Nombre del servidor
+ventaprueba.database.windows.net
+
+Nombre de la base de datos
+VentaProc
+
+Usuario admin
+wilmer
+
+
+Contraseña
+Sanvicente123
+
+
+IP
+190.232.88.90
+
+
+Correo azure:
+wilmer.sky.12@hotmail.com
